@@ -1,0 +1,6 @@
+dockers
+node_modules
+build
+dist
+.env
+generated
